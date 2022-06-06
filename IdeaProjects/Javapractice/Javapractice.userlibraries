@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="groovy-4.0.0">
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-astbuilder-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-cli-picocli-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-ant-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-contracts-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-datetime-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-docgenerator-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-dateutil-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-cli-commons-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-ginq-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-groovydoc-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-console-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-json-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-jmx-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-macro-library-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-jsr223-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-groovysh-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-nio-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-macro-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-servlet-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-sql-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-templates-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-test-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-test-junit5-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-testng-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-swing-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-toml-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-typecheckers-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-xml-4.0.0.jar" />
+    <archive path="C:/Users/dhara/IdeaProjects/Javapractice/lib/groovy-4.0.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
