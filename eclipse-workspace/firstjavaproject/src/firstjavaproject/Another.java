@@ -3,13 +3,14 @@ package firstjavaproject;
 public class Another {
 
 	public static  void main(String[] args) {
-		byte b = 1;
+		byte b = 10;
 		int I = 3;
 		short s = 4;
 		long l = 5 ;
-		float f = (float)5.36;
+		float f = (float)5.3635;
 		double d = 12345.12345;
 		char c = 'A';
+		int test = 21212;
 		boolean boo = false;
 	
 		
